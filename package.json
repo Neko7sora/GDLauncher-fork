@@ -137,7 +137,7 @@
     "react-scripts": "4.0.3",
     "rimraf": "3.0.2",
     "terser-webpack-plugin": "4.2.3",
-    "wait-on": "6.0.0",
+    "wait-on": "6.0.1",
     "webpack-bundle-analyzer": "4.4.2",
     "webpack-cli": "4.7.2",
     "webpack-merge": "5.8.0"
