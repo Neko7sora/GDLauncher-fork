@@ -35,4 +35,4 @@ yarn-error.log*
 signCertificate.pfx
 
 .yarn/
-!.yarn/release/*
+!.yarn/releases/*
