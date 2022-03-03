@@ -34,7 +34,7 @@ jobs:
       - name: yarn install
         run: |
           yarn set version berry
-          YARN_ENABLE_IMMUTABLE_INSTALLS=false yarn install
+          yarn install
       - name: yarn lint
         run: |
           yarn lint
