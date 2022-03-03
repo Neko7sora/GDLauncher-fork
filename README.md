@@ -118,13 +118,13 @@ $ npm i
 Start the development environment
 
 ```sh
-$ npm run dev
+$ yarn dev
 ```
 
 For production environment...
 
 ```sh
-$ npm run build && npm run start-prod
+$ yarn build && yarn start-prod
 ```
 
 ### 🚚 Packaging
@@ -132,7 +132,7 @@ $ npm run build && npm run start-prod
 To package the app for the local platform:
 
 ```sh
-$ npm run release
+$ yarn release
 ```
 
 ## 🚀 Technologies
