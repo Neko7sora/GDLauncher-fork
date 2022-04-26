@@ -2964,9 +2964,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@sentry/cli@npm:^1.70.1":
-  version: 1.73.1
-  resolution: "@sentry/cli@npm:1.73.1"
+"@sentry/cli@npm:^1.74.4":
+  version: 1.74.4
+  resolution: "@sentry/cli@npm:1.74.4"
   dependencies:
     https-proxy-agent: ^5.0.0
     mkdirp: ^0.5.5
@@ -2977,7 +2977,7 @@ __metadata:
     which: ^2.0.2
   bin:
     sentry-cli: bin/sentry-cli
-  checksum: 521409e149585a8674afa76c14e2422bcf4b7b3c5b172065daf2dfdc4062364015be8d1902c867446ba41d3873a9a3bf0ff36110d843e95c21f3b00aab35bb6d
+  checksum: 6fe63095edbb0f8c250ad813e24fddd65b3266763fbf628cfd865d2f68f7248ec38e600f220d6530a54ebf1a10cc51e1b5fbf203e28fab223d80a5afd4d5dfb2
   languageName: node
   linkType: hard
 
@@ -3074,12 +3074,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@sentry/webpack-plugin@npm:1.18.3":
-  version: 1.18.3
-  resolution: "@sentry/webpack-plugin@npm:1.18.3"
+"@sentry/webpack-plugin@npm:1.18.9":
+  version: 1.18.9
+  resolution: "@sentry/webpack-plugin@npm:1.18.9"
   dependencies:
-    "@sentry/cli": ^1.70.1
-  checksum: 99323bd145463bf20f4ce3712cc0938a5c2eb1af23c3167ca5fe8a0331d50753a54dbb9e5ac81c6bdb576c819532f4ff23c0f31b5fc6b5f0d23f55342c9fd6cc
+    "@sentry/cli": ^1.74.4
+  checksum: ff6edfebddd45a9d77686fe118661428ad309207b0ea6d579e38ea7edd0c390e7c84deb9e755bb0b5b118d628890e5be2146ace8c8ae72444d9d054c9c032a6d
   languageName: node
   linkType: hard
 
@@ -10282,7 +10282,7 @@ __metadata:
     "@sentry/react": ^6.16.1
     "@sentry/tracing": ^6.16.1
     "@sentry/utils": ^6.16.1
-    "@sentry/webpack-plugin": 1.18.3
+    "@sentry/webpack-plugin": 1.18.9
     antd: 4.16.11
     axios: ^0.21.1
     babel-core: 6.26.3
