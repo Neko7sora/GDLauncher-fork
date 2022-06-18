@@ -8563,16 +8563,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"electron@npm:16.0.7":
-  version: 16.0.7
-  resolution: "electron@npm:16.0.7"
+"electron@npm:16.2.8":
+  version: 16.2.8
+  resolution: "electron@npm:16.2.8"
   dependencies:
     "@electron/get": ^1.13.0
     "@types/node": ^14.6.2
     extract-zip: ^1.0.3
   bin:
     electron: cli.js
-  checksum: 9ca82da3739ad737b736c9f5ff9d0e4883f69cb55128d65c39b559ad26b95502d7fb54899e01d744ee4d1d8d1414fe0a77750ed30ed187e90737562b823e1ee1
+  checksum: 05177c7a798ff43d4a9df333cc5537e46235a14560b4400e9a9993972abb2e599e22e59a0c0b385bc4090ef665719ce0e90179b652d295fb1fea79bbb0fd786b
   languageName: node
   linkType: hard
 
@@ -10301,7 +10301,7 @@ __metadata:
     directory-tree: ^2.3.1
     discord-rpc: ^4.0.1
     dotenv: 10.0.0
-    electron: 16.0.7
+    electron: 16.2.8
     electron-builder: 22.14.5
     electron-log: ^4.4.5
     electron-store: ^8.0.1
